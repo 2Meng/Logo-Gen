@@ -14,7 +14,7 @@ This project is licensed under the None license.
 
 * [Contributors](#contributors)
 
-## Installation
+## Installations
 
 - NPM init -y
 - NPM install inquirer@8.2.4
