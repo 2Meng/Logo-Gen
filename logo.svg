@@ -3,7 +3,7 @@
             height="200" 
             xmlns="http://www.w3.org/2000/svg">
 
-            <circle cx="150" cy="120" r="75" fill="gray"/>
-            <text x="100" y="135" font-size="60" fill="teal">qwe</text>
+            <circle cx="150" cy="120" r="75" fill="yellow"/>
+            <text x="100" y="135" font-size="60" fill="brown">gef</text>
 
     </svg>
