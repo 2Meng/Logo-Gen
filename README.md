@@ -1,5 +1,7 @@
 Logo-generator
 
+https://www.youtube.com/watch?v=YitEEoxTkbI
+
 ## Description
 
 This project prompts the user questions to generate a custom logo!
